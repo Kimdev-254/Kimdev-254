@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kimdev-254
-- 👀 I’m interested in coding(Backend-Development) and networking
-- 🌱 I’m currently learning C++
+- 👀 I’m a SOftware Developer
+- 🌱 I’m currently learning Backend Development 
 - 💞️ I’m looking to collaborate on software based projects
 - 📫 How to reach me bonifacekimani@gmail.com
 
